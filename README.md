@@ -1,6 +1,6 @@
 # SmallestDosProgarams
-These are the two smallest DOS programs (5 and 7 bytes) whitch I have written in 1995 which were doing important tasks:
-* NOSOUND turns off speaker whihc was sometimes left beeping after exiting some DOS game
-* SETMODE3 resets graphics mode to text mode (80x25. 16 colors. 8 pages) after exiting some DOS games which left the 320x200 graphics mode on
+These are the two smallest DOS programs (5 and 7 bytes) whitch I have written in 1995 which were doing important tasks for me:
+* NOSOUND turns off speaker which was sometimes left beeping after exiting a DOS game
+* SETMODE3 resets graphics mode to text mode (80x25. 16 colors. 8 pages) after exiting a DOS games which left the graphics mode on
 
 Warning! *.com files are "compiled" executable files!
